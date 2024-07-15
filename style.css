@@ -1,0 +1,22 @@
+.headdiv {
+    width: 500px;
+    height: 367px;
+    background-image: url(RHC.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: inline-block;
+}
+
+div h1 {
+    font-size: 25px;
+    color: aqua;
+}
+
+h2 {
+    font-size: 20px;
+    display: inline;
+}
+
+.jianjie {
+    display: inline-block;
+}
